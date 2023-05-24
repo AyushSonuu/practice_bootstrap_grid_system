@@ -1,0 +1,8 @@
+.drop li a{
+    color: white !important;
+    font-weight: 500;
+}
+.dropdown-menu li a{
+    color: black !important;
+    font-weight: 500;
+}
